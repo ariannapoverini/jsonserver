@@ -1,0 +1,4 @@
+{
+    "/anagrafica/*": "/anagrafica",
+    "/anagrafica//?id=id": "/anagrafica/id"
+}
